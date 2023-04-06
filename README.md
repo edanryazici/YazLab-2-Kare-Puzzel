@@ -10,4 +10,6 @@ Projemiz kullanıcı tarafından yüklenen fotoğrafı 16 eş parçaya bölerek 
 Kare Puzzel oyunu visual studio 2022 uygulaması üzerinden Windows form ile geliştirilmiştir.
 <br>
 Proje Arayüzü
+ <br>
+ <img src="[gorsel-link](https://github.com/edanryazici/YazLab-2-Kare-Puzzel/blob/main/oyun-ekrani-2.png)" width="auto">
 
